@@ -1,0 +1,32 @@
+Using the Markdown Cheat Sheet:
+
+Basic syntax:
+
+# H1
+## H2
+### H3 
+All headings
+
+**bold text** - making text bold
+
+*italic text* - making text italic
+
+> blockquote - insert a blockquote
+
+1. first
+2. second
+3. 3rd
+Ordered list
+
+- first
+- second
+- third
+Unordered list
+
+' code' - not sure if right symbols for this compared to what the website says
+
+--- - inserts a horizontal Rule
+
+[title](insert URL) - link
+
+![alt text](image file) - Image
